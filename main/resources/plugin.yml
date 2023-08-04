@@ -1,0 +1,3 @@
+name: HIDKills
+version: '${project.version}'
+main: dev.xmroot.redehid.Recompensa
